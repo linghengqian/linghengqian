@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linghengqian
-- 👀 I’m interested in Python/C/Java, and Rust is my white moonlight
-- 🌱 I’m currently learning discrete mathematics, database principles
+- 👀 I’m interested in Operating system Foundation/Process And Thread/Memory Management/Peripheral And File System, and Rust is my white moonlight
+- 🌱 I’m currently learning Compilation Principle, Software Engineering
 - 💞️ I’m looking to collaborate on distributed database
 - 📫 How to reach me -- send email to linghengqian@outlook.com
 
