@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @linghengqian
 - 👀 I’m interested in Operating system Foundation/Process And Thread/Memory Management/Peripheral And File System, and Rust is my white moonlight
 - 🌱 I’m currently learning Compilation Principle, Software Engineering
-- 💞️ I’m looking to collaborate on distributed database
+- 💞️ I’m looking to collaborate on distributed database, and I'm a Apache ShardingSphere Committer.
 - 📫 How to reach me -- send email to linghengqian@outlook.com or linghengqian@apache.org.
 
 <!---
