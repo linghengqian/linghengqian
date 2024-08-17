@@ -2,7 +2,7 @@
 - 👀 I’m interested in Process And Thread, Memory Management, Peripheral And File System, and Rust is my white moonlight.
 - 🌱 I’m currently learning Compilation Principle, Software Engineering.
 - 💞️ I’m looking to collaborate on distributed database.
-- 📫 How to reach me -- send email to linghengqian@outlook.com or linghengqian@apache.org. You can also send me a private message at https://the-asf.slack.com/ using my username @linghengqian .
+- 📫 How to reach me -- send email to linghengqian@outlook.com or linghengqian@apache.org. You can also send me a private message at https://the-asf.slack.com/ using my username `@linghengqian`.
 
 <!---
 linghengqian/linghengqian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
