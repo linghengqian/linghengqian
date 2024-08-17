@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Compilation Principle, Software Engineering.
 - 💞️ I’m looking to collaborate on distributed database.
 - 📫 How to reach me -- send email to `linghengqian@outlook.com` or `linghengqian@apache.org` . You can also contact me using some tools, such as,
-  - You can also send me a private message at https://the-asf.slack.com/ using my username `@linghengqian`.
+  - Send some private messages to the user with username `@linghengqian` via https://the-asf.slack.com/ .
   - Use `[~linghengqian]` to cc me something at https://issues.apache.org/jira .
 
 <!---
