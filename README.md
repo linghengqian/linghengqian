@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on distributed database.
 - 📫 How to reach me -- send email to `linghengqian@outlook.com` or `linghengqian@apache.org` . You can also contact me using some tools, such as,
   - Tag me via `@泠恒谦` in the comments section of any article on https://www.yuque.com/ . By the way, https://www.yuque.com/linghengqian is my blog.
+  - Send some private messages to the user with username `@linghengqian` via https://the-asf.slack.com/ .
 
 <!---
 linghengqian/linghengqian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
